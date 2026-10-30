@@ -1,4 +1,6 @@
-# oppy-funnel-icon
+# favicon
 
-Favicon for the JP Software Pipeline dashboard, served via jsDelivr:
-`https://cdn.jsdelivr.net/gh/morry-celonis/oppy-funnel-icon@main/funnel-rainbow-64.png`
+Favicons for internal tools, served via jsDelivr:
+`https://cdn.jsdelivr.net/gh/morry-celonis/favicon@main/<file>.png`
+
+- `funnel-rainbow-*.png` — JP Software Pipeline dashboard
